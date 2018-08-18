@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+web3_env
+db.sqlite3
+/static
+.DS_Store
